@@ -1,0 +1,9 @@
+LTFS Index Pattern Rules
+
+Max file size for index partiton
+500
+M
+
+Name pattern:
+*.DS_Store*:*.sngz*
+
